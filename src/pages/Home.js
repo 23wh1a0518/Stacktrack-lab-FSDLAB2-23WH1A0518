@@ -7,7 +7,7 @@ const LAB_ID = 'FSDLAB2';
 function Home() {
   return (
     <div>
-      <h1>Stack Track Lab</h1>
+      <h1>Stack Track </h1>
       <p>student id: {STUDENT_ID}</p>
       <p>Lab ID: {LAB_ID}</p>
 
